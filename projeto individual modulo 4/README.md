@@ -21,3 +21,5 @@ Criamos duas relações com as seguintes cardinalidades.
 # Autor:
 
 Alvaro
+
+![image](https://user-images.githubusercontent.com/114239272/212335980-340ad060-4a68-4eec-b3cd-af6bbcac911e.png)
